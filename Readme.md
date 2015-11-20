@@ -38,7 +38,7 @@ visit
 
 Vorto Home - http://www.eclipse.org/vorto
 
-Vorto Discussions/Community - http://www.eclipse.org/vorto/community.html 
+Vorto Discussions/Community - http://www.eclipse.org/forums/index.php?t=thread&frm_id=303
 
 
 [Java]:  http://www.oracle.com/technetwork/java/javase/downloads/index.html
